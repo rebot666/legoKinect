@@ -1,0 +1,30 @@
+C:\Users\black4ninja\Documents\Visual Studio 2010\Projects\LegoKinect\LegoKinect\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\black4ninja\Documents\Visual Studio 2010\Projects\LegoKinect\LegoKinect\obj\x86\Debug\MainWindow.baml
+C:\Users\black4ninja\Documents\Visual Studio 2010\Projects\LegoKinect\LegoKinect\obj\x86\Debug\MainWindow.g.cs
+C:\Users\black4ninja\Documents\Visual Studio 2010\Projects\LegoKinect\LegoKinect\obj\x86\Debug\App.g.cs
+C:\Users\black4ninja\Documents\Visual Studio 2010\Projects\LegoKinect\LegoKinect\obj\x86\Debug\LegoKinect_MarkupCompile.cache
+C:\Users\black4ninja\Documents\Visual Studio 2010\Projects\LegoKinect\LegoKinect\obj\x86\Debug\LegoKinect.g.resources
+C:\Users\black4ninja\Documents\Visual Studio 2010\Projects\LegoKinect\LegoKinect\obj\x86\Debug\LegoKinect.Properties.Resources.resources
+C:\Users\black4ninja\Documents\Visual Studio 2010\Projects\LegoKinect\LegoKinect\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\black4ninja\Documents\Visual Studio 2010\Projects\LegoKinect\LegoKinect\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\black4ninja\Documents\Visual Studio 2010\Projects\LegoKinect\LegoKinect\bin\Debug\LegoKinect.exe.config
+C:\Users\black4ninja\Documents\Visual Studio 2010\Projects\LegoKinect\LegoKinect\bin\Debug\LegoKinect.exe
+C:\Users\black4ninja\Documents\Visual Studio 2010\Projects\LegoKinect\LegoKinect\bin\Debug\LegoKinect.pdb
+C:\Users\black4ninja\Documents\Visual Studio 2010\Projects\LegoKinect\LegoKinect\bin\Debug\NxtNet.DesktopLib.dll
+C:\Users\black4ninja\Documents\Visual Studio 2010\Projects\LegoKinect\LegoKinect\bin\Debug\NxtNet.DesktopLib.xml
+C:\Users\black4ninja\Documents\Visual Studio 2010\Projects\LegoKinect\LegoKinect\obj\x86\Debug\LegoKinect.exe
+C:\Users\black4ninja\Documents\Visual Studio 2010\Projects\LegoKinect\LegoKinect\obj\x86\Debug\LegoKinect.pdb
+C:\Users\black4ninja\Documents\My Dropbox\Donuts\Re-Bot\LegoKinect\LegoKinect\bin\Debug\LegoKinect.exe.config
+C:\Users\black4ninja\Documents\My Dropbox\Donuts\Re-Bot\LegoKinect\LegoKinect\obj\x86\Debug\LegoKinect.exe
+C:\Users\black4ninja\Documents\My Dropbox\Donuts\Re-Bot\LegoKinect\LegoKinect\obj\x86\Debug\LegoKinect.pdb
+C:\Users\KRONOS\Dropbox\Donuts\Re-Bot\LegoKinect\LegoKinect\bin\Debug\LegoKinect.exe.config
+C:\Users\KRONOS\Dropbox\Donuts\Re-Bot\LegoKinect\LegoKinect\obj\x86\Debug\LegoKinect.exe
+C:\Users\KRONOS\Dropbox\Donuts\Re-Bot\LegoKinect\LegoKinect\obj\x86\Debug\LegoKinect.pdb
+C:\Users\KRONOS\Dropbox\Donuts\Re-Bot\LegoKinect\LegoKinect\obj\x86\Debug\LegoKinect.csprojResolveAssemblyReference.cache
+C:\Users\KRONOS\Dropbox\Donuts\Re-Bot\LegoKinect\LegoKinect\obj\x86\Debug\MainWindow.baml
+C:\Users\KRONOS\Dropbox\Donuts\Re-Bot\LegoKinect\LegoKinect\obj\x86\Debug\MainWindow.g.cs
+C:\Users\KRONOS\Dropbox\Donuts\Re-Bot\LegoKinect\LegoKinect\obj\x86\Debug\App.g.cs
+C:\Users\KRONOS\Dropbox\Donuts\Re-Bot\LegoKinect\LegoKinect\obj\x86\Debug\LegoKinect_MarkupCompile.cache
+C:\Users\KRONOS\Dropbox\Donuts\Re-Bot\LegoKinect\LegoKinect\obj\x86\Debug\LegoKinect.g.resources
+C:\Users\KRONOS\Dropbox\Donuts\Re-Bot\LegoKinect\LegoKinect\obj\x86\Debug\LegoKinect.Properties.Resources.resources
+C:\Users\KRONOS\Dropbox\Donuts\Re-Bot\LegoKinect\LegoKinect\obj\x86\Debug\LegoKinect.csproj.GenerateResource.Cache
